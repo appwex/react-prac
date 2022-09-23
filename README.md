@@ -1,4 +1,4 @@
-# react-prac
+# React Practice Template :rocket: :muscle: :100:
 
 A React app for practicing components.
 
